@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
 <!-- =============== ABOUT ME =============== -->
 
 ## 💫 About Me
@@ -36,7 +33,7 @@
 ---
 
 <!-- =============== EDUCATION & INTERESTS =============== -->
-## Areas of Interest
+## 🎯Areas of Interest
 - Cybersecurity and Network Security
 - Secure Software Development
 - Artificial Intelligence and Machine Learning
@@ -82,11 +79,10 @@
     alt="GitHub Contribution Streak"
   />
 </p>
+
 ---
-
+## ✍️Quote
 <!-- =============== PERSONAL PHILOSOPHY =============== -->
-
-## ✍️ 
 
 <p align="center">
   <strong>💡 "Learn relentlessly. Build intelligently. Secure what matters."</strong>
